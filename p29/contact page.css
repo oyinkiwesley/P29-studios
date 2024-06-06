@@ -1,0 +1,11 @@
+.contactInfo{
+	margin-left: 10px;
+}
+#copybtn{
+	padding: 10px 20px;
+	background-color: #b24d4c;
+	color: white;
+	border: none;
+	border-radius: 3px;
+	font-family: sans-serif;
+}
